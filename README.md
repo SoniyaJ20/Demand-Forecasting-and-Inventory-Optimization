@@ -8,7 +8,9 @@ Optimize inventory levels to reduce stockouts and overstocking.
 
 Provide actionable insights through Power BI dashboards.
 
+
 **📊 Project Overview**
+
 Small to medium e-commerce businesses often struggle with inventory management due to fluctuating demand.
 Using historical sales data, this project builds forecasting models and inventory optimization strategies to:
 
@@ -18,7 +20,9 @@ Avoid overstocking
 
 Improve profitability
 
+
 **📌 Key Objectives**
+
 Simulate or use real e-commerce sales data for multiple SKUs.
 
 Analyze trends, seasonality, and promotions using EDA.
@@ -33,7 +37,9 @@ Create interactive Power BI dashboards.
 
 Modularize code for reuse.
 
+
 **🛠 Tools & Libraries**
+
 Python: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, prophet
 
 Forecasting Models: Prophet, ARIMA
@@ -44,7 +50,9 @@ Dashboard: Power BI
 
 Development Environment: Google Colab, Jupyter Notebook
 
+
 **📈 Analysis Highlights**
+
 Data Preparation – Cleaned and structured dataset with correct date formats.
 
 EDA – Trends, seasonality (monthly & weekly), category/platform analysis.
@@ -63,7 +71,9 @@ ARIMA – Statistical time-series modeling.
 
 Inventory Optimization – Safety Stock: 55.25 units, Reorder Point: 1,116.32 units.
 
+
 **⚙️ Assumptions & Limitations**
+
 Lead time fixed at 7 days.
 
 Service level target 95%.
@@ -71,6 +81,7 @@ Service level target 95%.
 Historical patterns assumed to continue.
 
 External factors (promotions, holidays, competitor pricing) not included.
+
 Scenario Simulation – Validated inventory strategy under real demand patterns.
 
 Power BI Dashboard – KPIs, trends, category/platform performance, geo maps.

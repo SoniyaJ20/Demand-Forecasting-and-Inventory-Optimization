@@ -1,4 +1,5 @@
 **E-commerce Demand Forecasting & Inventory Optimization**
+
 This project analyzes historical sales data from a health and nutrition e-commerce platform to:
 
 Forecast demand using Prophet and ARIMA.

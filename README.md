@@ -8,8 +8,11 @@ Provide actionable insights through Power BI dashboards.
 **📊 Project Overview**
 Small to medium e-commerce businesses often struggle with inventory management due to fluctuating demand.
 Using historical sales data, this project builds forecasting models and inventory optimization strategies to:
+
 Reduce stockouts
+
 Avoid overstocking
+
 Improve profitability
 
 **📌 Key Objectives**
